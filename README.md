@@ -24,3 +24,5 @@ run the above command
 run powerpoint in fullscreen
 enter the music app on the Pebble watch
 use the forward and back arrows to advance slides
+ 
+A project undertaken with Viral Spaces group of the MIT Media Lab.
